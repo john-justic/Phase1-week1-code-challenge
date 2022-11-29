@@ -45,7 +45,7 @@ if (speed<= limit){
     if (demeritPoints<=12){
         console.log(`points: ${demeritPoints}`)
     }
-    else(console.log(`Licence suspended, ${points} points`))
+    else(console.log(`Licence suspended, ${demeritPoints} points`))
     
 }
 
